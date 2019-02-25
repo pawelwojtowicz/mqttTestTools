@@ -22,5 +22,8 @@
   "bugs": {
     "url": "https://github.com/pawelwojtowicz/mqttTestTools/issues"
   },
-  "homepage": "https://github.com/pawelwojtowicz/mqttTestTools#readme"
+  "homepage": "https://github.com/pawelwojtowicz/mqttTestTools#readme",
+  "dependencies": {
+    "mqtt": "^2.18.8"
+  }
 }
