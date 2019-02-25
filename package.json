@@ -1,0 +1,26 @@
+{
+  "name": "mqtttesttools",
+  "version": "0.0.1",
+  "description": "The MQTT test tools. Sender and receiver.",
+  "main": "receiver.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pawelwojtowicz/mqttTestTools.git"
+  },
+  "keywords": [
+    "MQTT",
+    "Test",
+    "tools",
+    "Load",
+    "testing"
+  ],
+  "author": "Pawel W.",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pawelwojtowicz/mqttTestTools/issues"
+  },
+  "homepage": "https://github.com/pawelwojtowicz/mqttTestTools#readme"
+}
